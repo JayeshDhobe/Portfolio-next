@@ -2,11 +2,15 @@ export const personalData = {
   name: "Jayesh Dhobe",
   profile: "/profile.png",
   designation: "Software Engineer",
-  description:
-    "My name is JAYESH DHOBE. I am a professional and enthusiastic programmer in my daily life. I am a quick learner with a self-learning attitude. I love to learn and explore new technologies and am passionate about problem-solving. I love almost all the stacks of web application development and love to make the web more open to the world. My core skill is based on JavaScript and I love to do most of the things using JavaScript. I am available for any kind of job opportunity that suits my skills and interests.",
+  description: `
+  I am Jayesh Dhobe, a passionate and skilled software engineer with a Bachelor's degree in Computer Science from Pune University, 
+  I possess hands-on experience in developing scalable and innovative solutions, including AI-powered tools, full-stack web applications, and mobile applications. My technical expertise spans languages such as Java, JavaScript, and C++, along with technologies like ReactJS, NodeJS, MongoDB, TypeScript, and modern UI frameworks such as Tailwind CSS and Material UI. 
+  I am proficient in creating reusable workflows, implementing interactive UI components, and ensuring robust application performance.
+  I am highly motivated to leverage my expertise in AI-driven development, full-stack engineering, and modern web technologies to deliver impactful solutions. I take pride in my problem-solving abilities, collaborative mindset, and commitment to excellence in every project I undertake.
+`,
   email: "jayeshdhobe7@gmail.com",
   phone: "+91 8788367035",
-  address: "Sankalp d-Heights near ek shanti park narhe, Pune 411041",
+  address: "Kakkad La Vida, Baner, Pune 411045",
   github: "https://github.com/JayeshDhobe",
   // facebook: "https://www.facebook.com/abusaid.riyaz/",
   linkedIn: "https://www.linkedin.com/in/jayesh-dhobe/",
@@ -15,5 +19,5 @@ export const personalData = {
   leetcode: "https://leetcode.com/u/jayeshdhobe07/",
   devUsername: "said7388",
   resume:
-    "https://drive.google.com/file/d/1oUkBJKtsN55Usj6ILaD7d__Fv7vrpADp/view?usp=drive_link",
+    "https://drive.google.com/file/d/15M7FkKJAeSiKg6CFrgvK_o6aR-zBFKmW/view?usp=sharing",
 };

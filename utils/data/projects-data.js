@@ -48,4 +48,27 @@ export const projectsData = [
     demo: "",
     image: "",
   },
+  {
+    id: 4,
+    name: "LLamaste – AI-Driven Wellness Companion",
+    description:
+      "Designed and developed an AI-powered wellness assistant utilizing Retrieval-Augmented Generation (RAG) to provide personalized mindfulness and wellness advice. Implemented LangChain for data chunking and embedding, storing wellness content in a FAISS vector database for efficient semantic search. Integrated Large Language Models (LLMs) using LLM Studio to run the LLaMa model, enabling context-aware and conversational responses. Built a scalable backend with Python and Machine Learning (ML) techniques to enhance response accuracy. Used MongoDB for managing user profiles and interaction history, ensuring data persistence. Developed an intuitive React-based frontend for seamless AI-driven wellness recommendations.",
+    tools: [
+      "Artificial Intelligence",
+      "RAG",
+      "NLP",
+      "LangChain",
+      "FAISS",
+      "LLM Studio",
+      "LLaMa Model",
+      "Python",
+      "Machine Learning",
+      "MongoDB",
+      "React",
+    ],
+    role: "Full Stack Developer",
+    code: "",
+    demo: "",
+    image: "",
+  },
 ];
